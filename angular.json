@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Ang9AppB26"
+    }
+  },
+  "defaultProject": "Ang9AppB26",
+  "cli": {
+    "analytics": false
+  }
 }
